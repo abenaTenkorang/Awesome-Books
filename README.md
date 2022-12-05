@@ -11,8 +11,6 @@
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
@@ -82,28 +80,7 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  git clone git@github.com:portfolio-roy/awesome-books-basic-utsargo-tanveer.git
-  cd capstone-1
-```
-
-
-### Install
-
-Install this project with:
-
-
-```sh
-  npm install
-```
-
-### Usage
-
-To run the project, execute the following command:
-
-
-
-```sh
-  python3 -m http.server 8000
+  git clone https://github.com/abenaTenkorang/Awesome-Books.git
 ```
 
 
