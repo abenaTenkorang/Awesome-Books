@@ -13,6 +13,7 @@
   - [Setup](#setup)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [Future Features]
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -106,6 +107,12 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Styling to make the website more appealing**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -128,7 +135,7 @@ If you like this project give me a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank all my fellow micronauts.
+ We ould like to thank all our fellow micronauts.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
