@@ -7,7 +7,7 @@
 const booklist = document.querySelector('.books-list');
 const title = document.querySelector('#Title');
 const author = document.querySelector('#Author');
-const addBtn = document.querySelector('#Add-Button');
+const addBtn = document.querySelector('#add-Button');
 
 let booksArr = [];
 
