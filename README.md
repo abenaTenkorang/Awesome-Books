@@ -139,7 +139,7 @@ We would like to thank all my fellow micronauts.
 
 - **What is this project?**
 
-  - It's a  project of micoverse curriculam.
+  - It's a  project of micoverse curriculum entitled awesome books.
 
 - **Is there any SQL database for this site**
 
@@ -151,7 +151,7 @@ We would like to thank all my fellow micronauts.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/abenaTenkorang/Awesome-Books/blob/feature/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
