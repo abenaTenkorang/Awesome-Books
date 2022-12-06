@@ -5,9 +5,9 @@ const addBtn = document.querySelector('#Add-Button');
 
 let booksArr = [];
 
-console.log(booksArr);
 function booklister2() {
   booklist.innerHTML = '';
+  // eslint-disable-next-line no-plusplus
   for (let i = 0; i < booksArr.length; i++) {
     booklist.innerHTML += `
         <div class="book title">
@@ -19,10 +19,9 @@ function booklister2() {
         <button class="button" onclick="remove(${i})">remove</button>
             <hr/>
         `;
-    // title.value = '';
-    // author.value = '';
   }
 }
+// eslint-disable-next-line no-unused-vars
 function remove(index) {
   booksArr.splice(index, 1);
   booklister2();
@@ -41,7 +40,7 @@ addBtn.addEventListener('click', () => {
     title: title.value,
     author: author.value,
   };
-  console.log(booksArr);
+
   booksArr.push(theBook);
   booklister2();
   localStorage.setItem('booksArr', JSON.stringify(booksArr));
