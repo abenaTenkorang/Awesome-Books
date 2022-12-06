@@ -110,6 +110,9 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 ## 🤝 Contributing <a name="contributing"></a>
 
+  **Mesfin Haile**
+  -Github: [@mesfin Haile](https://github.com/mesfin345)
+
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
