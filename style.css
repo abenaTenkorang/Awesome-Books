@@ -46,7 +46,7 @@ body {
 .books-list div {
   display: flex;
   justify-content: space-between;
-  padding: 10px;
+  padding: 11px;
 }
 
 .awesome-books {
