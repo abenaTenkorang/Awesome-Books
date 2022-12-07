@@ -8,6 +8,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Future Features](#future-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -56,6 +57,15 @@
 - **Save data to local storage**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+  ** Implement some UX improvements: 
+  - Add the "More" button on the home page, includeing transitions and/or animation.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LIVE DEMO -->
 
@@ -106,6 +116,7 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -131,7 +142,7 @@ If you like this project give me a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank all my fellow micronauts.
+ We would like to thank all our fellow micronauts.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -142,7 +153,7 @@ We would like to thank all my fellow micronauts.
 
 - **What is this project?**
 
-  - It's a  project of micoverse curriculam.
+  - It's a  project of micoverse curriculum entitled awesome books.
 
 - **Is there any SQL database for this site**
 
@@ -154,7 +165,7 @@ We would like to thank all my fellow micronauts.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/abenaTenkorang/Awesome-Books/blob/feature/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
