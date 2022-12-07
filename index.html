@@ -5,26 +5,69 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Awesome Books</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nerko+One&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Heebo:wght@600&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+   
+        <nav class="nav-bg">
+            <div class="title">
+                <h3>Awesome Books</h3>
+            </div>
+            <div class="nav-list">
+                <ul>
+                    <a href="#" class="list"><li>List</li></a>  
+                    <li><div class="line"></div></li>
+                    <a href="#" class="add"><li>Add new</li></a>  
+                    <li><div class="line"></div></li>
+                    <a href="#" class="contactmenu"><li>Contact</li></a>         
+                    </ul>
+            </div>      
+        </nav>
+        <p class="date-time">LAKJf</p>
+
     <div class="Books-Container">
         <div class="awesome-books">
             <h2>AWESOME BOOKS</h2>
-        <div class="books-list">
-            <!-- js file goes here -->
+            <div class="books-list"> <!-- js file goes here --></div>
+            <p class="emptymsg">There is no Books in this List</p>
         </div>
-        </div>
+
         <div class="new-book">
-            <h1>Add a new book</h1>
+            <h2>Add a new book</h2>
             <form>
                 <input type="text" id="Title" placeholder="Title"><br><br>
                 <input type="text" id="Author" placeholder="Author"><br><br>
-                <input type="button" id="Add-Button" value="Add">
+                <input type="button" id="add-Button" value="Add">
             </form> 
         </div>
+        <div class="contact">
+            <h2>Contact information</h2>
+            <h3>Do have any questions or you just want to say "Hello"? You can reach out to us!</h3>
+        
+            <ul>
+              <li>Our e-mail: abenagy16@mail.com</li>
+              <li>Our phone number: 0043586534422</li>
+              <li>Our address: Green Hotel Street 22, 84503 Accra, Ghana</li>
+            </ul>
+        </div>   
+    </div>     
 
     <script src="index.js"></script>
+    <footer>
+        <p>© 2022, Awesome Books | All Rights Reserved</p>
+      </footer>
 </body>
 </html>
       

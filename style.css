@@ -15,12 +15,53 @@ body {
   max-height: 100vh;
 }
 
+.nav-bg {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  width: 90%;
+  padding: 10px 50px;
+  border: 2px solid;
+  margin-top: 20px;
+}
+
+.nav-list ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+.date-time {
+  margin: 3rem 0 0 72rem;
+}
+
+.line {
+  border-right: 2px solid;
+  height: 30px;
+}
+
+.nav-list ul a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-list ul a:hover {
+  color: slateblue;
+}
+
 .Books-Container {
   display: flex;
   flex-direction: column;
   gap: 25px;
   width: 50%;
   height: 100%;
+  margin-top: 5rem;
+}
+
+.contact,
+.new-book {
+  display: none;
+  align-self: center;
 }
 
 #Author,
@@ -31,10 +72,10 @@ body {
   padding: 3px;
 }
 
-#Add-Button {
+#add-Button {
   width: 70px;
   height: 30px;
-  background-color: green;
+  background-color: slateblue;
   color: white;
   align-self: flex-end;
 }
@@ -46,7 +87,7 @@ body {
 .books-list div {
   display: flex;
   justify-content: space-between;
-  padding: 10px;
+  padding: 11px;
 }
 
 .awesome-books {
@@ -55,8 +96,11 @@ body {
   gap: 40px;
 }
 
-.awesome-books h2 {
+.awesome-books h2,
+.new-book h2,
+.contact h2 {
   text-align: center;
+  margin-bottom: 4rem;
 }
 
 .title-author {
@@ -70,4 +114,21 @@ body {
 
 .title-author:nth-child(even) {
   background-color: white;
+}
+
+.contact ul {
+  margin-top: 1rem;
+}
+
+.emptymsg {
+  display: none;
+  margin-left: 40vh;
+}
+
+footer {
+  bottom: 0;
+  width: 90vw;
+  border: 2px solid;
+  padding: 20px 0 20px 20px;
+  margin-bottom: 20px;
 }
