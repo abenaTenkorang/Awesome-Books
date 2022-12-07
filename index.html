@@ -8,6 +8,18 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header>
+        <nav>
+          <h3>Awesome Books</h3>
+          <ul>
+          <a href="#" class="list"><li>List</li></a>  
+          <a href="#" class="add"><li>Add new</li></a>  
+          <a href="#" class="contactmenu"><li>Contact</li></a>         
+          </ul>
+        </nav>
+        <p class="date-and-time">LAKJf</p>
+      </header>
+
     <div class="Books-Container">
         <div class="awesome-books">
             <h2>AWESOME BOOKS</h2>
@@ -15,14 +27,29 @@
             <!-- js file goes here -->
         </div>
         </div>
-        <div class="new-book">
-            <h1>Add a new book</h1>
-            <form>
-                <input type="text" id="Title" placeholder="Title"><br><br>
-                <input type="text" id="Author" placeholder="Author"><br><br>
-                <input type="button" id="add-Button" value="Add">
-            </form> 
-        </div>
+
+        <section>
+            <div class="new-book">
+                <h2>Add a new book</h2>
+                <form>
+                    <input type="text" id="Title" placeholder="Title"><br><br>
+                    <input type="text" id="Author" placeholder="Author"><br><br>
+                    <input type="button" id="add-Button" value="Add">
+                </form> 
+            </div>
+        </section>
+
+        <section>
+            <h2>Contact information</h2>
+            <p>Do have any questions or you just want to say "Hello"? You can reach out to us!</p>
+        
+            <ul>
+              <li>Our e-mail: mail@mail.com</li>
+              <li>Our phone number: 0043586534422</li>
+              <li>Our address: Streetname 22, 84503 City, Country</li>
+            </ul>
+        </section>
+        
 
     <script src="index.js"></script>
 </body>

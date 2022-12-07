@@ -1,7 +1,3 @@
-/* eslint-disable lines-between-class-members */
-/* eslint-disable no-undef */
-/* eslint-disable no-plusplus */
-/* eslint-disable no-unused-vars */
 /* eslint-disable max-classes-per-file */
 
 const booklist = document.querySelector('.books-list');
@@ -11,6 +7,7 @@ const addBtn = document.querySelector('#add-Button');
 
 let booksArr = [];
 
+// eslint-disable-next-line no-unused-vars
 class Book {
   constructor(title, author) {
     this.title = title;
@@ -23,6 +20,7 @@ class Book {
 class UI {
   static addBooks() {
     booklist.innerHTML = '';
+    // eslint-disable-next-line no-plusplus
     for (let i = 0; i < booksArr.length; i++) {
       booklist.innerHTML += `
       <div class="title-author"> 
