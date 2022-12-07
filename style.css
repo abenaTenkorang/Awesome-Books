@@ -49,8 +49,6 @@ body {
   color: slateblue;
 }
 
-
-
 .Books-Container {
   display: flex;
   flex-direction: column;
@@ -63,6 +61,7 @@ body {
 .contact,
 .new-book {
   display: none;
+  align-self: center;
 }
 
 #Author,
@@ -117,13 +116,8 @@ body {
   background-color: white;
 }
 
-.new-book, 
-.contact {
-  align-self: center;
-}
-
 .contact ul {
-margin-top: 1rem;
+  margin-top: 1rem;
 }
 
 .emptymsg {
