@@ -122,11 +122,10 @@ body {
 
 .emptymsg {
   display: none;
-  margin-left: 45vh;
+  margin-left: 40vh;
 }
 
 footer {
-  position: fixed;
   bottom: 0;
   width: 90vw;
   border: 2px solid;
