@@ -107,10 +107,9 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 3. Open the `index.html` file in the project directory with your favorite browser
 
 ### Deployment
-<a name="#triangular_flag_on_post-deployment"></a>
+<a name="triangular_flag_on_post-deployment"></a>
 
 You can deploy this project using [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -118,7 +117,7 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 <!-- AUTHORS -->
 
 ## 👥 Authors 
-<a name="#authors"></a>
+<a name="authors"></a>
 
 👤 **Abigail Gyamfuaa Boateng**
 
