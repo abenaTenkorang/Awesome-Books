@@ -75,9 +75,6 @@
 
 - [Live Demo Link]( https://abenatenkorang.github.io/Awesome-Books/)
 
-
-
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -85,20 +82,32 @@
 To get a local copy up and running, follow these steps.
 
 
+If you dont have [node](https://node.org) install on your computer, Install node js from [https://nodejs.org/en](https://nodejs.org/en/) as your JavaScript Runtime Engine
+
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+
+[Download the ZIP from this location](https://github.com/abenaTenkorang/Awesome-Books/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+
+- Once the files are on your machine, open the _Awesome-Books_ folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation
 
 ### Setup
 
-Clone this repository to your desired folder:
+1. Clone this repository to your desired folder:
 
+    ```sh
+      git clone https://github.com/abenaTenkorang/Awesome-Books.git
+    ```
 
+2. Install Node Modules
 
-```sh
-  git clone https://github.com/abenaTenkorang/Awesome-Books.git
-```
-
-
+   ```sh
+   npm install
+   ```
+   
+3. Open the `index.html` file in the project directory with your favorite browser
 
 ### Deployment
+<a name="#triangular_flag_on_post-deployment"></a>
 
 You can deploy this project using [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
@@ -109,13 +118,17 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 <!-- AUTHORS -->
 
 ## 👥 Authors 
-<a name="authors"></a>
+<a name="#authors"></a>
 
 👤 **Abigail Gyamfuaa Boateng**
 
 - GitHub: [@AbenaTenkorang](https://github.com/abenaTenkorang)
 - Twitter: [@Abi1_boateng](https://twitter.com/Abi1_boateng)
 - LinkedIn: [Abigail Boateng](https://www.linkedin.com/in/abigail-boateng-345395141/)
+
+ **Mesfin Haile**
+  -Github: [@mesfin Haile](https://github.com/mesfin345)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,9 +137,7 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-  **Mesfin Haile**
-  -Github: [@mesfin Haile](https://github.com/mesfin345)
-
+ 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
@@ -150,19 +161,6 @@ If you like this project give me a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-- **What is this project?**
-
-  - It's a  project of micoverse curriculum entitled awesome books.
-
-- **Is there any SQL database for this site**
-
-  - No, there isn't. However, we used javascirpt objects stored in a file as a small database.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
