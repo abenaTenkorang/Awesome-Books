@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
