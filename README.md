@@ -1,4 +1,7 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<div align="center">
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
